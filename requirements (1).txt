@@ -5,6 +5,10 @@ ansi2html==1.9.1
 arch==6.2.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
+streamlit
+pandas
+scikit-learn
+imbalanced-learn
 asttokens==2.0.5
 async-timeout==4.0.3
 attrs==21.4.0
