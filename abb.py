@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import numpy
 import pickle
 
 with open('pipeline.pkl', 'rb') as file:
