@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-import imblearn
 
 with open('pipeline.pkl', 'rb') as file:
     model = pickle.load(file)
